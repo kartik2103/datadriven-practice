@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sleek_heron_7029), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/spark/10-lowest-uptime-services) | Spark | Medium | 2026-11-16 |
 | [Bronze Medal](./practice/spark/bronze-medal) | Spark | Easy | 2026-11-16 |
 
 <!-- datadriven:index:end -->
